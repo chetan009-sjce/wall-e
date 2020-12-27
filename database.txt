@@ -1,0 +1,5 @@
+port:3306
+password:
+hostname:localhost
+username:root
+db:Wall-e

@@ -1,0 +1,67 @@
+
+/*.brand name font*/
+.navbar-brand{
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Ultra', serif;
+font-size: 2em;
+font-weight: bold;
+}
+
+/*navigaion color*/
+.navbar #myMenu .custom-nav .nav-item a {
+    color:white;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover {
+    color:black;
+}
+
+/*image responsive*/
+.backimage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    background-position: center center;
+    border-radius: 0px;
+    margin-top: 74px;
+}
+
+/*header image sub-title*/
+.font-italic{
+    font-size: 24px;
+    color: white;
+}
+
+.mainHeading{
+    margin-top: 50px;
+}
+
+.fi-color {
+    color:red;
+}
+
+.fi-color:hover {
+    color:lightblue;
+}
+
+a{
+    color:silver;
+}
+
+.active{
+    color:black;
+    /*background-color: #4d3232;*/
+    
+}
+
+a:hover{
+    color:rgb(255, 72, 0);
+}
+
+/* */
+@media only screen and (max-width:600px){
+.myclass{
+    margin-top:350px ;
+    text-align: center;
+}}
+
